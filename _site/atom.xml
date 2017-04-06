@@ -4,7 +4,7 @@
  <title>Monochrome | A minimal, responsive Jekyll blog theme</title>
  <link href="http://0.0.0.0:4000/atom.xml" rel="self"/>
  <id>http://0.0.0.0:4000</id>
- <updated>2017-04-06T05:46:49+00:00</updated>
+ <updated>2017-04-06T05:54:58+00:00</updated>
  <author>
    <name>The Review Index</name>
    <uri>https://thereviewindex.com</uri>
@@ -18,8 +18,7 @@
    <link href="http://0.0.0.0:4000/gar1"/>
    <id>http://0.0.0.0:4000/gar1</id>
    <updated>2017-04-05T00:00:00+00:00</updated>
-   <content type="html">&lt;p&gt;gar gar&lt;/p&gt;
-</content>
+   <content type="html">&lt;p&gt;gar gar&lt;/p&gt; &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;$ kubectl --kubeconfig --namespace devops get pods -o wide NAME READY STATUS RESTARTS AGE IP NODE grafana-0 1/1 Running 0 4d 10.20.45.6 ip-172-20-82-103.us-west-2.compute.internal jenkins-0 1/1 Running 0 4d 10.20.48.8 ip-172-20-82-60.us-west-2.compute.internal jenkins-backup-29xlf 1/1 Running 3 3d 10.20.70.4 ip-172-20-82-84.us-west-2.compute.internal jenkins-backup-30cvv 1/1 Running 3 4d 10.20.48.4 ip-172-20-82-60.us-west-2.compute.internal jenkins-backup-692mr 1/1...</content>
  </entry>
 
  
